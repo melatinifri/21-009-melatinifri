@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
     <head>
 	    <title>TUGAS MODUL 2</title>
