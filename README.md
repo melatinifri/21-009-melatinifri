@@ -1,18 +1,56 @@
-<html>
-    <head>
-	    <title>TUGAS MODUL 2</title>
-        
-        <style type-"text/css">
-            h2{color: #02509f;
-                font-family: Segoe Script;
-            }
-        </style>
-        <link rel="stylesheet" href="external background.css">
-    </head>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GITHUB</title>
+    <style type-"text/css">
+        h2{color: #02509f;
+            font-family: Segoe Script;
+        }
+    </style>
+    <link rel="stylesheet" href="external background.css">
 
-    <body>
-        <h1 style="color: #f46a8d;
-                    font-family: Segoe Script;">Tugas Modul 3</h1>
+</head>
+<body>
+    <h1 style="color: #f46a8d;
+                    font-family: Segoe Script;">Tugas Modul 1</h1>
+    <h2>1. Daftar Berbagai Perpustakaan</h2>
+    <p>Silakan klik link di bawah untuk melihat daftar perpustakaan beserta profil dan gambar perpustakaan.</p>
+    <a href="PROFIL.html">Profil Perpustakaan Universitas di Indonesia</a>
+
+    <h2>2. Penggunaan Audio dan Video</h2>
+    <p><b>- Audio</b></p>
+    <p> Lover - Taylor Swift</p>
+    <audio controls>
+    <source src="Taylor Swift - Lover (Official Music Video).mp3"type="audio/mpeg">
+    </audio>
+    <p><b>- Video</b></p>
+    <p> Ramadhan - Maher Zain</p>
+    <video controls width="320" height="240">
+    <source src="Maher Zain - Ramadan ( Lyrics ) Official Video.mp4"type="video/mp4">
+    </video>
+
+    <h2>3. Kelebihan HTML5 dan Penerapannya</h2>
+    <p style="color: #5d3a6f;
+                    font-family: Calibri;"><b>Kelebihan HTML 5</b></p>
+    <p> - Penanganan error yang lebih baik
+        <p> - Memiliki Syntax yang lebih mudah
+        <p> - Terdapat dukungan untuk konten Audio dan Video
+        <p> - Kemudahan membuatan website
+        <p> - Penyimpanan informasi secara lokal</p>
+    
+    <p style="color: #5d3a6f;
+        font-family: Calibri;"><b>Penerapan HTML 5 pada Web Perpustakaan</b></p>
+    <p> - Menggunakan elemen-elemen baru HTML5 seperti < header >, < footer >, dan < nav > untuk membuat tata letak yang lebih terstruktur dan intuitif.
+        <p> - Memanfaatkan fitur audio dan video HTML5 untuk menyediakan pratinjau atau konten multimedia yang lebih kaya.
+        <p> - Membangun visualisasi data interaktif menggunakan elemen < canvas > atau < svg >.
+        <p> - Memanfaatkan penyimpanan lokal HTML5 untuk menyimpan preferensi pengguna, riwayat pencarian, atau bahkan cache dari buku-buku yang sering diakses.
+        <p> - Memungkinkan aplikasi web Perpustakaan untuk tetap dapat diakses dan digunakan oleh pengguna meskipun mereka offline, dengan memanfaatkan cache aplikasi web HTML5.</p>
+    
+
+<h1 style="color: #f46a8d;
+                    font-family: Segoe Script;">Tugas Modul 2</h1>
         <h2>1. Formulir Keanggotan Perpustakaan</h2>
 <table border="1" >
 
@@ -154,7 +192,14 @@
  </fieldset>
 </body>
 
+<h1 style="color: #f46a8d;
+                    font-family: Segoe Script;">Tugas Modul 3</h1>
 
+<p style="color: #5d3a6f;
+                    font-family: Times New Roman;"><b>HTML dan CSS</b></p>
 
-    </body>
+<p>HTML merupakan singkatan dari Hypertext Markup Language, yang merupakan bahasa dasar untuk membuat dan merancang halaman web. HTML digunakan untuk struktur dasar dari sebuah halaman web, menentukan bagaimana konten seperti teks, gambar, dan media lainnya akan ditampilkan dan diatur. Secara umum, HTML terdiri dari serangkaian elemen atau tag yang memberi petunjuk kepada browser tentang bagaimana halaman web harus ditampilkan.
+<p>CSS, atau Cascading Style Sheets, adalah bahasa yang digunakan untuk mengatur tampilan dan tata letak elemen-elemen HTML di dalam halaman web. Dengan CSS dapat mengatur warna, ukuran, jenis font, posisi, dan banyak lagi atribut-atribut tampilan lainnya. Misalnya, menggunakan CSS untuk membuat latar belakang transparan, membuat elemen mengambang di atas halaman, mengatur jarak antara elemen-elemen, dan mengubah tampilan saat pengguna berinteraksi dengan halaman. CSS memungkinkan untuk membuat halaman web yang lebih menarik, interaktif, dan mudah dibaca bagi pengguna.</p>
+
+</body>
 </html>
