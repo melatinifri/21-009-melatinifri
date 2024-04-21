@@ -103,7 +103,8 @@
         <td> The Library Of America </td>
         <td> 2005 </td>
     </tr>
-    
+
+    <tr>
         <td> Da Vinci Code decoded : menguak kebenaran dibalik fiksi da vinci code </td>
         <td> 808.2 </td>
         <td> 808.2 Lun d</td>
@@ -111,8 +112,9 @@
         <td> FICTION</td>
         <td> U.S. Development of Health, Education </td>
         <td> 2005 </td>
-	</tr>
-		<td> Berguru kepada sastrawan dunia : buku wajib menulis fiksi </td>
+     </tr>
+     <tr>
+	<td> Berguru kepada sastrawan dunia : buku wajib menulis fiksi </td>
         <td> 808.066 813 </td>
         <td> 808.066 813 Nov b</td>
         <td> Novakovich, Josip </td>
